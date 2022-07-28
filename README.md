@@ -19,3 +19,6 @@
 Link to Deployed Application: https://potential-happiness19.herokuapp.com/
 
 The following screenshot displays the deployed application.
+![Screen Shot 2022-07-28 at 7 03 10 AM](https://user-images.githubusercontent.com/64749332/181491830-51f8d122-8b58-424e-94c8-9edab8e1966a.png)
+
+
